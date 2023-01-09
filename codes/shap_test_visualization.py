@@ -146,7 +146,7 @@ def fill_segmentation(values, segmentation):
     return out
 
 # parser config
-config_file = "./sample_config.ini"
+config_file = "config.ini"
 cp = ConfigParser()
 cp.read(config_file)
 
