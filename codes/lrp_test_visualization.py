@@ -74,7 +74,7 @@ def plot_original_image(image, save_path):
 
 def main():
     # parser config
-    config_file = "./sample_config.ini"
+    config_file = "config.ini"
     cp = ConfigParser()
     cp.read(config_file)
 
