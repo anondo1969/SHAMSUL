@@ -1,6 +1,6 @@
 # SHAMSUL
 
-SHAMSUL: Simultaneous Heatmap-Analysis to investigate Medical Significance Utilizing Local interpretability methods, Mahbub Ul Alam, Jaakko Hollmén, Jón Rúnar Baldvinsson, Rahim Rahmani, https://doi.org/10.48550/arXiv.2307.08003
+SHAMSUL: Simultaneous Heatmap-Analysis to investigate Medical Significance Utilizing Local interpretability methods, Mahbub Ul Alam, Jaakko Hollmén, Jón Rúnar Baldvinsson, Rahim Rahmani, https://doi.org/10.48550/arXiv.2307.08003 (The pdf file is also provided here.)
 
 ## Abstract
 
