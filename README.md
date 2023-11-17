@@ -8,7 +8,7 @@ The interpretability of deep neural networks has become a subject of great inter
 
 ### An excerpt of the paper
 
-![An excerpt of the paper](http://dash.blogs.dsv.su.se/files/2022/07/Screenshot-2022-07-27-at-11.30.12-AM.png)
+![An excerpt of the paper](https://raw.githubusercontent.com/anondo1969/SHAMSUL/main/codes/excerpt.png)
 
 ### Bibtex Format for Citation
 
