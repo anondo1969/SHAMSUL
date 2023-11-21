@@ -1,6 +1,8 @@
 # SHAMSUL
 
-[SHAMSUL: Systematic Holistic Analysis to investigate Medical Significance Utilizing Local interpretability methods in deep learning for chest radiography pathology prediction](https://journals.uio.no/NMI/article/view/10471), Mahbub Ul Alam, Jaakko Hollmén, Jón Rúnar Baldvinsson, Rahim Rahmani, https://doi.org/10.5617/nmi.10471
+[SHAMSUL\*: Systematic Holistic Analysis to investigate Medical Significance Utilizing Local interpretability methods in deep learning for chest radiography pathology prediction](https://journals.uio.no/NMI/article/view/10471), Mahbub Ul Alam, Jaakko Hollmén, Jón Rúnar Baldvinsson, Rahim Rahmani, https://doi.org/10.5617/nmi.10471
+
+\* "The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
 
 ## Abstract
 
