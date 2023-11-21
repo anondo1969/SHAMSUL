@@ -20,7 +20,7 @@ The interpretability of deep neural networks has become a subject of great inter
   volume={3},
   number={1},
   pages={27--47},
-  year={2023}
+  year={2023},
   doi={10.5617/nmi.10471}
 }
 ```
