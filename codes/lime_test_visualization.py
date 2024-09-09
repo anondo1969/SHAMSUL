@@ -54,7 +54,7 @@ def transparent_cmap(cmap, intensity, N=255):
 
 def plot_heatmap_with_image_plus_original_image(heatmap, image, cmap, intensity, save_path):
     
-    
+    #just a test
     w, h = heatmap.shape
     y, x = np.mgrid[0:h, 0:w]
     
