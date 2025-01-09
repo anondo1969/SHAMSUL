@@ -8,23 +8,33 @@
 
 Explore this work using the available demo app:  
 
-1. **Online Access**: Visit [https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/) to use it directly.  
+### Online Access
+Visit [https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/) to use it directly.  
 
-**OR**  
+### OR
 
-2. **Run Locally**:  
+### Run Locally 
 
-   a. **Pull the Docker Image**:  
+#### Step 1: Install Docker  
+Install Docker Engine or Docker Desktop on your system by following the [official Docker installation guide](https://docs.docker.com/get-docker/).  
+
+#### Step 2: Launch the App  
+1. Open a Terminal (or Windows Terminal).  
+2. Run this command to download and start the app:  
    ```bash
-   docker pull mahbub1969/shamsul:v1
+   docker run --rm -p 7860:7860 mahbub1969/shamsul:v1
    ```  
+3. Open your browser and go to [http://localhost:7860/](http://localhost:7860/) to use the app.  
 
-   b. **Run the Docker Image**:  
-   ```bash
-   docker run --rm -it -p 7860:7860 mahbub1969/shamsul:v1
-   ```  
+#### Step 3: Stop the App  
+To stop the app, press **Control+C** in the terminal. Note that the session won’t be saved, so the app will reset to its default state the next time you run it.  
 
-   c. **Launch the App**: Open your browser and go to [http://localhost:7860/](http://localhost:7860/).  
+#### Step 4: Remove the Docker Image (Optional)  
+If you want to free up space, you can remove the Docker image. Use this command in your terminal:  
+```bash
+docker image rm mahbub1969/shamsul:v1
+```  
+For more details, check out the [Docker image removal guide](https://docs.docker.com/reference/cli/docker/image/rm/).    
 
 ## Abstract
 
