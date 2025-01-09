@@ -6,19 +6,27 @@
 
 ## Demo App  
 
+### Demo App  
+
 Explore this work using the available demo app:  
 
 1. **Online Access**: Visit [https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/) to use it directly.  
 
 **OR**  
 
-2. **Run Locally**: Use this Docker image:  
+2. **Run Locally**:  
+
+   a. **Pull the Docker Image**:  
    ```bash
    docker pull mahbub1969/shamsul:v1
    ```  
 
-3. **View the Code**: Access the demo app's source code on GitHub:  
-   [https://github.com/anondo1969/SHAMSUL_demo_app](https://github.com/anondo1969/SHAMSUL_demo_app)  
+   b. **Run the Docker Image**:  
+   ```bash
+   docker run --rm -it -p 7860:7860 mahbub1969/shamsul:v1
+   ```  
+
+   c. **Launch the App**: Open your browser and go to [http://localhost:7860/](http://localhost:7860/).  
 
 ## Abstract
 
