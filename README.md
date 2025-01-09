@@ -6,8 +6,6 @@
 
 ## Demo App  
 
-### Demo App  
-
 Explore this work using the available demo app:  
 
 1. **Online Access**: Visit [https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/) to use it directly.  
