@@ -1,8 +1,24 @@
 # SHAMSUL
 
-[SHAMSUL\*: Systematic Holistic Analysis to investigate Medical Significance Utilizing Local interpretability methods in deep learning for chest radiography pathology prediction](https://journals.uio.no/NMI/article/view/10471), Mahbub Ul Alam, Jaakko Hollmén, Jón Rúnar Baldvinsson, Rahim Rahmani, https://doi.org/10.5617/nmi.10471
+**SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by deep learning models. \*"The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
 
-\* "The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
+## Key Features
+
+*   **Multi-Method Interpretability**: Incorporates four advanced interpretability methods—LIME, SHAP, Grad-CAM, and LRP—to provide diverse insights into deep learning model predictions.
+    
+*   **Focus on Medical Significancee**: Designed specifically for chest radiography pathology prediction, ensuring results are meaningful for clinical applications.
+    
+*   **Comprehensive Visualizations**: Generates heatmaps and segmentations to help identify the regions of interest linked to specific pathologies.
+    
+*   **Multi-Label, Multi-Class Analysis**: Supports analyzing both single-label and multi-label instances, accommodating a variety of medical imaging needs.
+    
+*   **Quantitative and Qualitative Evaluation**: Offers metrics like Intersection over Union (IoU) and detailed visual comparisons with expert annotations for robust performance assessment.
+    
+*   **Integration with CheXpert Dataset**: One of the largest chest X-ray datasets to validate predictions and ensure high-quality results.
+    
+*   **User-Friendly Interface**: Simplifies interaction by allowing users to upload images.
+    
+*   **Open-Source Access**: Code and resources are available, promoting transparency and enabling further development by the research community.
 
 ## Demo App  
 
@@ -43,6 +59,14 @@ The interpretability of deep neural networks has become a subject of great inter
 ### An excerpt of the paper
 
 ![An excerpt of the paper](https://raw.githubusercontent.com/anondo1969/SHAMSUL/main/codes/excerpt.png)
+
+## Citation
+
+Please acknowledge the following work in papers or derivative software:
+
+M. U. Alam, J. Hollmén, J. R. Baldvinsson, and R. Rahmani, “SHAMSUL: Systematic Holistic Analysis to investigate Medical Significance Utilizing
+Local interpretability methods in deep learning for chest radiography pathology prediction,” Nordic Machine Intelligence, vol. 3, pp. 27–47, 2023.   
+[https://doi.org/10.5617/nmi.10471](https://doi.org/10.5617/nmi.10471)
 
 ### Bibtex Format for Citation
 
