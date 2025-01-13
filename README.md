@@ -7,7 +7,7 @@ For detailed insights and methodology, please refer to the original research pap
 
 ###### \*"The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
 
-## Demo App  
+## Demo App- [Visit https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/)
 
 Explore this work using the **publicly available** demo app (**no registration needed!**):  
 
