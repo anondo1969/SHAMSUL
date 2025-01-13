@@ -1,6 +1,8 @@
 # SHAMSUL
 
-**SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by deep learning models. \*"The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
+**SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by deep learning models.
+
+\*"The acronym SHAMSUL, derived from a Semitic word meaning "the Sun," serves as a symbolic representation of our heatmap score-based interpretability analysis approach aimed at unveiling the medical significance inherent in the predictions of black box deep learning models."
 
 ## Key Features
 
@@ -65,8 +67,7 @@ The interpretability of deep neural networks has become a subject of great inter
 Please acknowledge the following work in papers or derivative software:
 
 M. U. Alam, J. Hollmén, J. R. Baldvinsson, and R. Rahmani, “SHAMSUL: Systematic Holistic Analysis to investigate Medical Significance Utilizing
-Local interpretability methods in deep learning for chest radiography pathology prediction,” Nordic Machine Intelligence, vol. 3, pp. 27–47, 2023.   
-[https://doi.org/10.5617/nmi.10471](https://doi.org/10.5617/nmi.10471)
+Local interpretability methods in deep learning for chest radiography pathology prediction,” Nordic Machine Intelligence, vol. 3, pp. 27–47, 2023. [https://doi.org/10.5617/nmi.10471](https://doi.org/10.5617/nmi.10471)
 
 ### Bibtex Format for Citation
 
