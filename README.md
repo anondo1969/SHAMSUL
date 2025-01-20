@@ -41,7 +41,7 @@ For more details, check out the [Docker image removal guide](https://docs.docker
 
 ### [SHAMSUL Demo at a glance - Visit https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/)
 
-![Shamsul Demo at a glance](https://raw.githubusercontent.com/anondo1969/SHAMSUL/refs/heads/main/SHAMSUL_demo_app_screenshot.png)
+![Shamsul Demo at a glance](https://raw.githubusercontent.com/anondo1969/SHAMSUL/refs/heads/main/SHAMSUL_demo_app_screnshot.png)
 
 ## Key Features
 
