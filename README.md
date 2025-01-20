@@ -35,7 +35,7 @@ To stop the app, press **Control+C** in the terminal. Note that the session wonâ
 #### Step 4: Remove the Docker Image (Optional)  
 If you want to free up space, you can remove the Docker image. Use this command in your terminal:  
 ```bash
-docker image rm mahbub1969/shamsul:v1
+docker image rm mahbub1969/shamsul:v2
 ```  
 For more details, check out the [Docker image removal guide](https://docs.docker.com/reference/cli/docker/image/rm/).
 
