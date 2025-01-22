@@ -25,7 +25,7 @@ Install Docker Engine or Docker Desktop on your system by following the [officia
 1. Open a Terminal (or Windows Terminal).  
 2. Run this command to download and start the app:  
    ```bash
-   docker run --rm -p 7860:7860 mahbub1969/shamsul:v2
+   docker run --rm --name shamsul -p 7860:7860 mahbub1969/shamsul:v2
    ```  
 3. Open your browser and go to [http://localhost:7860/](http://localhost:7860/) to use the app.  
 
