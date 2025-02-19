@@ -1,6 +1,6 @@
 # SHAMSUL
 
-**SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by deep learning models.
+**SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by **deep learning** models.
 
 For detailed insights and methodology, please refer to the original research paper:  
 [SHAMSUL: Systematic Holistic Analysis to investigate Medical Significance Utilizing Local interpretability methods in deep learning for chest radiography pathology prediction](https://journals.uio.no/NMI/article/view/10471/9743)  
