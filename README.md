@@ -25,7 +25,7 @@ Install Docker Engine or Docker Desktop on your system by following the [officia
 1. Open a Terminal (or Windows Terminal).  
 2. Run this command to download and start the app:  
    ```bash
-   docker run --rm --name shamsul -p 7860:7860 mahbub1969/shamsul:v5
+   docker run --rm --name shamsul -p 7860:7860 mahbub1969/shamsul:v6
    ```  
 3. Open your browser and go to [http://localhost:7860/](http://localhost:7860/) to use the app.  
 
@@ -35,7 +35,7 @@ To stop the app, press **Control+C** in the terminal. Note that the session wonâ
 #### Step 4: Remove the Docker Image (Optional)  
 If you want to free up space, you can remove the Docker image. Use this command in your terminal:  
 ```bash
-docker image rm mahbub1969/shamsul:v5
+docker image rm mahbub1969/shamsul:v6
 ```  
 For more details, check out the [Docker image removal guide](https://docs.docker.com/reference/cli/docker/image/rm/).
 
@@ -54,9 +54,7 @@ For more details, check out the [Docker image removal guide](https://docs.docker
 *   **Multi-Label, Multi-Class Analysis**: Supports analyzing both single-label and multi-label instances, accommodating a variety of medical imaging needs.
     
 *   **Quantitative and Qualitative Evaluation**: Offers metrics like Intersection over Union (IoU) and detailed visual comparisons with expert annotations for robust performance assessment.
-    
-*   **Integration with CheXpert Dataset**: One of the largest chest X-ray datasets to validate predictions and ensure high-quality results.
-    
+        
 *   **User-Friendly Interface**: Simplifies interaction by allowing users to upload images.
     
 *   **Open-Source Access**: Code and resources are available, promoting transparency and enabling further development by the research community.
