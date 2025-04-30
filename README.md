@@ -1,3 +1,11 @@
+
+<div align="center">
+   <figure>
+  <img src="https://mahbub.blogs.dsv.su.se/files/2025/04/SHAMSUL.gif">
+   <figcaption><a href="https://shamsul.serve.scilifelab.se"><br>SHAMSUL Demo App- Visit https://shamsul.serve.scilifelab.se</a></figcaption>
+   </figure>
+</div>
+
 # SHAMSUL
 
 **SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by **deep learning** models.
@@ -38,10 +46,6 @@ If you want to free up space, you can remove the Docker image. Use this command 
 docker image rm mahbub1969/shamsul:v6
 ```  
 For more details, check out the [Docker image removal guide](https://docs.docker.com/reference/cli/docker/image/rm/).
-
-### [SHAMSUL Demo at a glance - Visit https://shamsul.serve.scilifelab.se/](https://shamsul.serve.scilifelab.se/)
-
-![Shamsul Demo at a glance](https://raw.githubusercontent.com/anondo1969/SHAMSUL/refs/heads/main/SHAMSUL_demo_app_screengrab.png)
 
 ## Key Features
 
