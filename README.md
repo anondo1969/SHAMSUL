@@ -1,11 +1,11 @@
-
+<!--
 <div align="center">
    <figure>
   <img src="https://mahbub.blogs.dsv.su.se/files/2025/04/SHAMSUL.gif">
    <figcaption><a href="https://shamsul.serve.scilifelab.se"><br>SHAMSUL Demo App- Visit https://shamsul.serve.scilifelab.se</a></figcaption>
    </figure>
 </div>
-
+-->
 # SHAMSUL
 
 **SHAMSUL\*** explores **interpretability** for **chest X-ray pathology predictions** using methods—Grad-CAM, LIME, SHAP, and LRP. It provides heatmaps and evaluation metrics for better insights into the **medical significance** of predictions made by **deep learning** models.
